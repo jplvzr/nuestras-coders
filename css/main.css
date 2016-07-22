@@ -1,15 +1,20 @@
 .raya {
 	width: 50px;
 	border: 2px solid gray;
-	margin: 15px;
+	margin: 7px;
 }
 .foto {
+	position: relative;
 	display: inline-block;
 	margin: 15px;
+	-webkit-filter: brightness(70%);
+	
 }
 .limitante {
 	width: 800px;
 }
-h3 {
-	margin: 15px;
-}
+.nombre {
+	position: absolute;
+	bottom: 1px;
+	right: 7px;
+	color: white;
