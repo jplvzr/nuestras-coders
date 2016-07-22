@@ -1,0 +1,15 @@
+.raya {
+	width: 50px;
+	border: 2px solid gray;
+	margin: 15px;
+}
+.foto {
+	display: inline-block;
+	margin: 15px;
+}
+.limitante {
+	width: 800px;
+}
+h3 {
+	margin: 15px;
+}
